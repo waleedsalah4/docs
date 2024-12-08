@@ -12,11 +12,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "Native Ui",
-    template: "%s | Native Ui",
+    default: "Documentation",
+    template: "%s | Documentation",
   },
   description:
-    "Native Ui is a small custom ui components and hooks documentation",
+    " documentation",
 };
 
 export default function Layout({ children }: { children: ReactNode }) {
